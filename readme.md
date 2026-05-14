@@ -27,7 +27,7 @@ Membuat Flowchart untuk program Perulangan While yang menghasilkan pattern segit
 
 ## Flowchart Do-While
 
-Flowchart program Perulangan do-while menghasilkan segitiga siku-siku
+Membuat Flowchart untuk program Perulangan Do-While yang menghasilkan pattern segitiga
 
 ```mermaid
 
