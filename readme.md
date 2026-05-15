@@ -12,7 +12,7 @@ Membuat Flowchart untuk program Perulangan While yang menghasilkan pattern segit
    d@{ shape: diamond, label: " j <= 4" }
    e@{ shape: rect, label: " str += ' * '" }
    g@{ shape: lean-r, label: " '{str}'" }
-   f@{ shape: rect, label: " increment j++" }
+   f@{ shape: rect, label: " j++" }
    h@{ shape: dbl-circ, label: "Stop" }
 
     a --> b --> c --> d
